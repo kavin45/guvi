@@ -22,8 +22,14 @@ printf("even");
    
  {
        
- printf("negative");
+ printf("odd");
    
  }
 
+}
+else
+{
+printf("invalid");
+}
+return 0;
 }
