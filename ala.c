@@ -11,7 +11,7 @@ int main()
     {
         printf("alaphabet");
         else
-        printf("constant")
+        printf("no")
     }
     return 0;
 }
